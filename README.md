@@ -1,6 +1,6 @@
 # TCDD Ticket Bot
 
-Bu bot, TCDD (Türkiye Cumhuriyeti Devlet Demiryolları) bilet sisteminde belirli bir rota için boş kuşetli yatak arayan ve bulduğunda e-posta ile bildirim gönderen bir otomasyon aracıdır.
+Bu bot, TCDD (Türkiye Cumhuriyeti Devlet Demiryolları) bilet sisteminde belirli bir rota için boş kuşetli yatak arayan ve bulduğunda e-posta ile bildirim gönderen bir otomasyon aracıdır. (2023)
 
 ## Özellikler
 
