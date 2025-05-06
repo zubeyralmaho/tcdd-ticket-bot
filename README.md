@@ -20,7 +20,7 @@ Bu bot, TCDD (Türkiye Cumhuriyeti Devlet Demiryolları) bilet sisteminde belirl
 
 1. Projeyi klonlayın:
 ```bash
-git clone https://github.com/yourusername/tcdd-ticket-bot.git
+git clone https://github.com/zubeyralmaho/tcdd-ticket-bot.git
 cd tcdd-ticket-bot
 ```
 
